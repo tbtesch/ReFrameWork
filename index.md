@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+![Mystic River Logo](https://github.com/tbtesch/ReFrameWork/blob/gh-pages/MRC%20white%20background.png)
+
+## UIPath Bot Framework 
 
 You can use the [editor on GitHub](https://github.com/tbtesch/ReFrameWork/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
